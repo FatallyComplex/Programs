@@ -1,2 +1,2 @@
 # Programs
-A collection of different softwares ive helped developped
+A collection of different softwares I've helped developped
